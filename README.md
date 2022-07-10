@@ -9,5 +9,8 @@ hockbhmv/hockbhmv is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-#MY STATS 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hockbhmv)](https://git.io/streak-stats)
+#MY STATS
+
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=hockbhm&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>
